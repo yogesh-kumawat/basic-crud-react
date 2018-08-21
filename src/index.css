@@ -1,0 +1,61 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.hidden{
+  display: none;
+}
+ 
+
+.crud-table {
+   border-collapse: collapse;
+  width: 100%;
+}
+
+.crud-table td, .crud-table th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+.crud-table tr:nth-child(even){background-color: #f2f2f2;}
+
+.crud-table tr:hover {background-color: #ddd;}
+
+.crud-table th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #3CBC8D;
+  color: white;
+}
+
+input[type=text] {
+  width: 200px;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 1px solid #555;
+  outline: none;
+}
+
+input[type=text]:focus {
+  background-color: lightblue;
+}
+
+.btn {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.save-btn {background-color: #4CAF50;} /* Blue */
+.del-btn {background-color: #f44336;} /* Red */ 
+ 
