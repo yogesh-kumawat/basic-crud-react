@@ -1,5 +1,5 @@
 # basic-crud-react
-Basic CRUD operation in React is a just for lerning project.
+This is very basic CRUD app in React contains only one field.This is a just for learning project.
 
 ReactJS CRUD APP is a simple CREATE, READ, UPDATE and DELETE.
 
