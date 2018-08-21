@@ -4,10 +4,8 @@ class App extends Component {
     super(props);
     this.state = {
       items: [
-        { text: "aaaaaaa", id: "1" },
-        { text: "bbbbbbbbbbbb", id: "2" },
-        { text: "cccccccccc", id: "3" },
-        { text: "dddddddddd", id: "4" }
+        { text: "A1", id: "1" },
+        { text: "B1", id: "2" }
       ],
       text: "",
       updateText: ""
