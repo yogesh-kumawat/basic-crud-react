@@ -20,4 +20,4 @@ $ npm start
 
 # Demo
 
-https://stackblitz.com/edit/react-psba9l
+https://stackblitz.com/edit/react-basic-crud?file=index.js
